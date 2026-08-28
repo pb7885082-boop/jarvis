@@ -31,9 +31,9 @@ services:
       - key: STICKER_PACKNAME
         value: "ᴃ𝗍／𝗐𝗈𝗋𝗅𝗗𐌌ꙮ⍆ꕶ🌟🐊❳"
       - key: SUDO
-        value: "917025673121"
+        value: "919242099910"
       - key: WARN_COUNT
-        value: "3"
+        value: "1"
       - key: ALLWAYS_ONLINE
         value: "false"
       - key: READ_MSG
