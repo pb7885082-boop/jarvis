@@ -11,15 +11,15 @@ services:
       - key: RENDER_APP_NAME
         value: "jarvis"
       - key: RENDER_API
-        value: "rnd_BmVrrSJ7FKhmaR7m6HunqHrOVQEG"
+        value: "rnd_DNfdeN8qZ3SLoG1mZwACpG0SZHfa"
       - key: SESSION_ID
         value: "Jarvis_v600_0y69_94u2_v734_y8z0_70zx_50u8_uv5211:32 PM"
       - key: DATABASE_URL
-        value: "postgresql://hope_xhxm_user:aZvGt0VwTvXNsW5vgBMbjNinhu2WNBsL@dpg-d9ci7inavr4c73aba97g-a.oregon-postgres.render.com/hope_xhxm"
+        value: "postgresql://spandan12_user:I9hSCu9q6KBmPNCKbH6xD3wWzkJU0rUR@dpg-da81b4p5efls73euds7g-a.oregon-postgres.render.com/spandan12"
       - key: HANDLER
-        value: "!"
+        value: "."
       - key: WORK_TYPE
-        value: "private"
+        value: "public"
       - key: ERROR_MSG
         value: "true"
       - key: BOT_INFO
@@ -35,7 +35,7 @@ services:
       - key: WARN_COUNT
         value: "1"
       - key: ALLWAYS_ONLINE
-        value: "false"
+        value: "true"
       - key: READ_MSG
         value: "false"
       - key: SAVE_STATUS
