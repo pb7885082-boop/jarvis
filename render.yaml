@@ -13,13 +13,13 @@ services:
       - key: RENDER_API
         value: "rnd_DNfdeN8qZ3SLoG1mZwACpG0SZHfa"
       - key: SESSION_ID
-        value: "Jarvis_v600_0y69_94u2_v734_y8z0_70zx_50u8_uv5211:32 PM"
+        value: "Jarvis_1vy2_44v0_18u8_1vv4_v461_w117_uv0z_7x4w"
       - key: DATABASE_URL
         value: "postgresql://spandan12_user:I9hSCu9q6KBmPNCKbH6xD3wWzkJU0rUR@dpg-da81b4p5efls73euds7g-a.oregon-postgres.render.com/spandan12"
       - key: HANDLER
         value: "."
       - key: WORK_TYPE
-        value: "public"
+        value: "private"
       - key: ERROR_MSG
         value: "true"
       - key: BOT_INFO
@@ -31,7 +31,7 @@ services:
       - key: STICKER_PACKNAME
         value: "ᴃ𝗍／𝗐𝗈𝗋𝗅𝗗𐌌ꙮ⍆ꕶ🌟🐊❳"
       - key: SUDO
-        value: "919242099910"
+        value: "917025673121"
       - key: WARN_COUNT
         value: "1"
       - key: ALLWAYS_ONLINE
